@@ -1,0 +1,12 @@
+.footer-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+  gap: 2rem;
+}
+
+.createdby {
+  text-align: center;
+  font-size: x-small;
+}
